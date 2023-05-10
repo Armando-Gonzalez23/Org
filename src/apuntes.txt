@@ -1,0 +1,17 @@
+En cuanto a la diferencia entre los métodos filter(), forEach() y map():
+
+forEach() recorre cada elemento de un array (arreglo) y ejecuta una función para cada uno de ellos, pero no devuelve un nuevo array con los resultados de esa función.
+map() también recorre cada elemento de un array y ejecuta una función para cada uno de ellos, pero a diferencia de forEach(), devuelve un nuevo array con los resultados de esa función.
+filter() también recorre cada elemento de un array, pero en este caso ejecuta una función que devuelve un valor booleano (true o false) para cada elemento. Luego, devuelve un nuevo array con los elementos para los cuales la función devolvió true.
+En resumen, forEach() no devuelve un nuevo array, map() devuelve un nuevo arreglo con los resultados de la función y filter() devuelve un nuevo array con los elementos que cumplen una condición.
+
+
+https://github.com/harlandlohora.png
+
+https://github.com/genesysaluralatam.png
+
+https://github.com/JeanmarieAluraLatam.png
+
+https://github.com/christianpva.png
+
+https://github.com/JoseDarioGonzalezCha.png
